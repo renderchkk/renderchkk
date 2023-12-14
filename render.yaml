@@ -2,6 +2,7 @@ services:
 - type: web
   name: telegram-userbot
   env: python
+  buildCommand: "pip install -r requirements.txt"
   startCommand: python3 -m ubb
   envVars:
     - key: API_ID
