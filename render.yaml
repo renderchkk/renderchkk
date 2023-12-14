@@ -1,0 +1,14 @@
+services:
+- type: web
+  name: telegram-userbot
+  env: python
+  startCommand: python3 -m ubb
+  envVars:
+    - key: API_ID
+      value: 25455215
+    - key: API_HASH
+      value: 4008aeda4613fe9efe1dd8054803a1e5
+    - key: DUMP_ID
+      value: -1002103043775
+    - key: STRING_SESSION
+      value: <your-string-session>
