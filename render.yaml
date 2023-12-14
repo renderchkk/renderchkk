@@ -6,10 +6,10 @@ services:
   startCommand: "python3 -m ubb"
   envVars:
     - key: api_id
-      value: 25455215
+      value: 21597688
     - key: api_hash
-      value: "4008aeda4613fe9efe1dd8054803a1e5"
+      value: "ecf6cdeda16b9be9d26b2233b5c5ae45"
     - key: dump_id
-      value: -1002103043775
+      value: -1002101528031
     - key: string_session
-      value: "1BVtsOKwBu8HbLVhom3aM186LUV18JY8K7oMMIJnN8oJeI4Bt0wkQaWmn_uy4mwxiI8V0KugY5s8CKdLmFHO6_mo5Oi7ifWyGlI85E8pnTvTap-A3C-Cl1vbF90uUxvoW_0b5lhEpZULurPz_UfnyseGz_2QOP_NPnI79bc1vup6vIAgfbCS-tj21p93vd5M8KiZqAMwuGOjewPK8EiFfh-bKkv20cSdzfCs-QSmdWHjRdp1IRGL39jAPq3KCFSVv2q7g1bu7PE0ytkOYN0KUyr1jOCUoLA4DwwHS3m1qxo5CkYV1tchAuItNzHWWzhzRGUPyF6CwxUYANoUOnKvIDa94PUt8MQw="
+      value: "1BJWap1wBuzwhVC_FUtlMvhuM_KLcPuUpBkODzjimJ33nCr8DIxJofQ3Qxne2iYDkXuNzuO5vTtnSmG-LWNoguzA4Ru6-tSoFsjA4_HGOU5prKdkpT4BXoEj_cAYyhRP3iN5PBdp-swVZ6A_le1SAJtAf5YdZN7KLizbt9-hkA5aO8hW3HpT7jtvlpGpkbJOHDipoumWJG0H170SOzvbTXTtzW5k8Zx2wWNEMOg4BY_pruixZOV4DVEixGZo8pfgJalNE3gtYhXwBgf22ZVnNSjYCCJnokwvuaU4X6RfhfvkwXDOJJvPBmCY53Lxz-87L76gr3CGfeffKiPFVIJ-B17caMNKcrcI="
