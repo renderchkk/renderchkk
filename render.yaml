@@ -5,11 +5,11 @@ services:
   buildCommand: "pip install -r requirements.txt"
   startCommand: "python3 -m ubb"
   envVars:
-    - key: API_ID
+    - key: api_id
       value: 25455215
-    - key: API_HASH
+    - key: api_hash
       value: "4008aeda4613fe9efe1dd8054803a1e5"
-    - key: DUMP_ID
+    - key: dump_id
       value: -1002103043775
-    - key: STRING_SESSION
+    - key: string_session
       value: "1BVtsOKwBu8HbLVhom3aM186LUV18JY8K7oMMIJnN8oJeI4Bt0wkQaWmn_uy4mwxiI8V0KugY5s8CKdLmFHO6_mo5Oi7ifWyGlI85E8pnTvTap-A3C-Cl1vbF90uUxvoW_0b5lhEpZULurPz_UfnyseGz_2QOP_NPnI79bc1vup6vIAgfbCS-tj21p93vd5M8KiZqAMwuGOjewPK8EiFfh-bKkv20cSdzfCs-QSmdWHjRdp1IRGL39jAPq3KCFSVv2q7g1bu7PE0ytkOYN0KUyr1jOCUoLA4DwwHS3m1qxo5CkYV1tchAuItNzHWWzhzRGUPyF6CwxUYANoUOnKvIDa94PUt8MQw="
