@@ -4,4 +4,4 @@ api_hash: '4008aeda4613fe9efe1dd8054803a1e5'
 # 13 digit channel id startswith - like -111.......
 dump_id: -1002103043775
 # genrate session of ur tg ac for telethon run sessionmaker.py
-string_session: '1BVtsOKwBu1hlC85mLAO2ue1Mk2yjJ3Qs8-jzsIS3sDTMU8Z-PzI8Wz-tUJKoY9ZtN321Qvq74d9tmbV-G5Zo8MXRHsIFPorkr46521F5VOMSs-fgX4N5K5zS1B-r_HryKa9RAtUD9DK3RMOnOJyDFDdn55VIPFylH8v4EvmZARVGZu_Wn3GphMxXeMflBQFzvgJRnOawoSZf8XNwk4__c_tsYCeehsS6xlGrXPRspSq1fHPDejiwr4g4DS1-DyN0vgz-WegMsSQpo-jCthzRvstvP7xYZtBztFsswQ0R8RnsZcqrXIPyp90RWWbdrMOoYRsEFdhMGbttNWBa2M2gOA5nmDVN26s='
+string_session: ''
