@@ -10,6 +10,6 @@ services:
     - key: api_hash
       value: "0fd8525b71e68920efba198863e4291d"
     - key: dump_id
-      value: RenderDumps1
+      value: -1001753507640
     - key: string_session
       value: "1BVtsOJgBu0qKfbHV2qx32eZDSxQ_my9tVCj7ikP2l0nvgWu_JqNJkfAq4jAhaCoTKdsDgh2yuH9S5Dllgor8EKFMydqa77OlR1ZhSAsgws4r5j8jxP71XA7um0bEjUki0YzzYNeX2AoyNvWt27Ihu2uw1DjjWPAt95am7QAUfXH1LI-uL68Psr2VgsexqonxDRc3fXIdUBBwSHrZFc-XF8vxV1-gtijfxXElHJ4W5HaPSEDs6i6TKw98AjLAIaEFvdPw3cmLEMdcCUWaXA1V2ErBMa7rQnOwevYOLcyQ-3jKhsQuH03m4EJgvBXRtHi5jWMoDFooLZkLc2VK92yprkQ504hgx6k="
